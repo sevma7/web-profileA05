@@ -1,5 +1,5 @@
 body {
-  font-family: "Lucida Grande";
+  font-family: "Gotham Light";
 }
 
 .container {
@@ -16,7 +16,7 @@ body {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://www.clker.com/cliparts/L/e/S/6/F/V/carbon-fiber-wallpaper-x-hi.png);
+  background-image: url("background.jpg");
   background-size: cover;
   color: white;
   text-align: center;
